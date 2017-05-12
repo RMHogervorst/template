@@ -1,8 +1,9 @@
 Package: template
-Title: What the Package Does (one line, title case)
+Title: Helps you With Often Used Tasks By Setting Highly Opinionated Templates For Quicker Use
 Version: 0.0.0.9000
 Authors@R: "Roel M. Hogervorst <hogervorst.rm@gmail.com> [cre, aut]"
-Description: What the package does (one paragraph).
+Description: Create several templates, for blogdown post, markdown, script and
+    other often used files. 
 Depends: R (>= 3.3.3)
 License: MIT + file LICENSE
 Encoding: UTF-8
